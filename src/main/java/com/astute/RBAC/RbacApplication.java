@@ -14,7 +14,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 public class RbacApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(RbacApplication.class, args);
 	}
